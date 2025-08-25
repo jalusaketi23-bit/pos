@@ -1,0 +1,4 @@
+body { background: #f7f7fb; }
+.navbar-brand { font-weight: 600; }
+#search-results .list-group-item { cursor: pointer; }
+.table td, .table th { vertical-align: middle; }
